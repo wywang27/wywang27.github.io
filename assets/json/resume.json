@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Weiyue Wang",
+    "label": "Postdoctoral Research Fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "weiyue.wang@uth.tmc.edu",
+    "phone": "(312) 358-7961",
+    "url": "https://wywang27.github.io/",
+    "address": "SRB 601A, 1825 Pressler Street, Houston, TX 77030, USA",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,11 +24,9 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "The Brown Foundation Institute of Molecular Medicine, The University of Texas Health Science Center at Houston",
+      "position": "Postdoctoral Research Fellow",
+      "startDate": "2023-10-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }

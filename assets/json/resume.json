@@ -45,7 +45,7 @@
       "endDate": "2020-05-01",
       "summary": "Advisor: Dingwei Ye, MD/PhD",
       "highlights": ["Assisted in a research project investigating the potential prognostic protein biomarkers using proteomic analysis in prostate cancer patients.", "Responsible for data curation and formal analysis using Gene Set Enrichment Analysis and Functional Enrichment Analysis, Microsoft Office, etc.", "Research article published at Phenomics."],
-    },
+    }
   ],
   "Professional Experience": [
     {
@@ -69,7 +69,7 @@
       "startDate": "2019-08-21",
       "endDate": "2019-08-23",
       "highlights": ["Competed with medical students from different countries in physiology on behalf of my medical school."],
-    },
+    }
   ],
   "Teaching & Volunteering": [
     {
@@ -166,7 +166,7 @@
       "publisher": "Phenomics",
       "releaseDate": "2022-09-27",
       "url": "https://doi.org/10.1007/s43657-022-00070-1"
-    },
+    }
   ],
   "skills": [
     {

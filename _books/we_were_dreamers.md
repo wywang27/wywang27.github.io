@@ -2,7 +2,7 @@
 layout: book-review
 title: We Were Dreamers
 author: Simu Liu
-olid: OL37331734M # use Open Library ID to fetch cover (if no `cover` is provided)
+olid: # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780008546472 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Biographies & Memoirs
 buy_link: https://www.amazon.com/We-Were-Dreamers-Immigrant-Superhero/dp/0063046490

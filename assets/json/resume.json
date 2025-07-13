@@ -60,7 +60,7 @@
             ]
         }
     ],
-    "Professional Experience": [
+    "professional_experience": [
         {
             "name": "Accelerated Clinical Experience Program, University of California San Diego, La jolla, CA",
             "position": "Visiting scholar",
@@ -90,7 +90,7 @@
             ]
         }
     ],
-    "Teaching & Volunteering": [
+    "teaching": [
         {
             "organization": "Memorial Hermann Health System",
             "location": "Houston, TX",

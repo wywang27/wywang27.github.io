@@ -636,6 +636,9 @@ jsonresume:
   - basics
   - work
   - education
+  - research_experience
+  - professional_experience
+  - teaching
   - publications
   - projects
   - volunteer

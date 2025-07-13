@@ -97,6 +97,12 @@ layout: default
                   {% include resume/education.liquid %}
                 {% when 'work' %}
                   {% include resume/work.liquid %}
+                {% when 'research_experience' %}
+                  {% include resume/research_experience.liquid %}
+                {% when 'professional_experience' %}
+                  {% include resume/professional_experience.liquid %}
+                {% when 'teaching' %}
+                  {% include resume/teaching.liquid %}
                 {% when 'volunteer' %}
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}

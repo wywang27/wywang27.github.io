@@ -1,7 +1,5 @@
-<h2 class="section-title">Professional Experience</h2>
-
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign professional_experience = site.data.resume.professional_experience | sort: 'startDate' | reverse %}
+  {% assign professional_experience = data[1] | sort: 'startDate' | reverse %}
   {% for content in professional_experience %}
     <li class="list-group-item">
       <div class="row">

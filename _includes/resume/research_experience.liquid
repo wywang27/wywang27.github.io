@@ -1,7 +1,5 @@
-<h2 class="section-title">Research Experience</h2>
-
 <ul class="card-text font-weight-light list-group list-group-flush">
-  {% assign research_experience = site.data.resume.research_experience | sort: 'startDate' | reverse %}
+  {% assign research_experience = data[1] | sort: 'startDate' | reverse %}
   {% for content in research_experience %}
     <li class="list-group-item">
       <div class="row">

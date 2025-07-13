@@ -10,9 +10,8 @@ started: 2025-06-22
 finished: 2025-06-29
 released: 2022
 stars: 5
-goodreads_review: 52582665
 status: Finished
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin eros sit amet ante aliquet, sit amet vulputate lectus mattis. 
+Without taking action, your best ideas are just random neurons firing in your brain like lost ships passing through endless ocean of conciousness doomed to be forgotten.
 

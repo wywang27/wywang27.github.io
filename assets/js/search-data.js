@@ -411,7 +411,7 @@ ninja.data = [{
           title: 'We Were Dreamers',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/we_were_dreamers/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",

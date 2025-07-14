@@ -417,6 +417,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/we_were_dreamers/";
+            },},{id: "books-when-breath-becomes-air",
+          title: 'When Breath Becomes Air',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/when_breath_becomes_air/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",

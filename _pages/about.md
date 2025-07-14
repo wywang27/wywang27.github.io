@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Fellow @ UTHealth Houston, M.D. from Fudan University.
+subtitle: Postdoctoral Research Fellow @ UTHealth Houston, M.D. from Fudan University.
 
 profile:
   align: right
@@ -22,4 +22,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-My name is Weiyue Wang (王炜越). Currently, I am a postdoctoral research fellow at the Center for Cardiovascular Genetics, The University of Texas Health Science Center at Houston. My research mainly focuses on elucidating fundamental mechanisms of hereditary cardiomyopathies using genetic tools.
+My name is Weiyue Wang (王炜越). I am currently a postdoctoral research fellow at the Center for Cardiovascular Genetics, The University of Texas Health Science Center at Houston (UTHealth Houston).
+I received my medical degree from Fudan University and began my research career at Mayo Clinic where I utilized CRISPR-Cas9 to screen modifier genes for dilated cardiomyopathy caused by truncating variants in the titin (TTN) gene in zebrafish models. At UTHealth, my focus has shifted toward understanding the molecular mechanisms of DNA damage and repair in hereditary cardiomyopathies, primarily through mouse models.
+Throughout my academic journey, I have led and published multiple research ariticles in the field of cardiovascualr sciences. My long-term goal is to become a physician-scientist committed to advancing care for patients with inherited heart diseases. 

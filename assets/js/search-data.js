@@ -44,11 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-san-marcos",
+        },{id: "post-paddling-san-marcos",
         
-          title: "San Marcos",
+          title: "Paddling San Marcos",
         
-        description: "",
+        description: "Summervibe in San Marcos",
         section: "Posts",
         handler: () => {
           

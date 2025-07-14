@@ -9,4 +9,3 @@ collection: books
 
 > A simple way to track my reading.
 
-## Books that I am reading, have read, or will read

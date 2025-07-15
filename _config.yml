@@ -2,7 +2,7 @@ x# -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Weiyue Wang
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Weiyue
 middle_name: 
 last_name: Wang
